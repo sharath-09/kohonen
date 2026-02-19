@@ -1,3 +1,3 @@
 # Introduction
 
-This repo covers the Kohonen SSL Algorithm Optimisation for Mantel.
+This repo contains my entry for the Kohonen Self Organising Map Challenge.
